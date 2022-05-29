@@ -19,6 +19,8 @@ output nya :
 
 ### 2. Footer
 
+Buat file baru dengan nama footer.php
+
 ![image](https://user-images.githubusercontent.com/101658076/170862180-d1132966-708c-4890-9e12-134bd15ac64a.png)
 
 output nya :
@@ -27,14 +29,18 @@ output nya :
 
 ### 3. Home
 
-![image](https://user-images.githubusercontent.com/101658076/170862259-dfe3abc7-9340-4cb2-90c5-7470fb2403a2.png)
-![image](https://user-images.githubusercontent.com/101658076/170862278-34e372d0-dfef-411d-bdd7-1b8d01c17565.png)
+Buat file baru dengan nama home.php
+
+![image](https://user-images.githubusercontent.com/101658076/170864189-959be129-5f58-4c10-a349-360d2e3a568e.png)
+![image](https://user-images.githubusercontent.com/101658076/170864193-77780e42-192a-4a14-b445-5ca91bdc62c5.png)
 
 output nya :
 
 ![image](https://user-images.githubusercontent.com/101658076/170862301-b295b058-4250-4ac6-a1d1-861d3ce0c3bb.png)
 
 ### 4. About
+
+Buat file dengan nama About.php
 
 ![image](https://user-images.githubusercontent.com/101658076/170862445-7a5942b1-ee22-45fa-be48-95ee0bb1a5be.png)
 
